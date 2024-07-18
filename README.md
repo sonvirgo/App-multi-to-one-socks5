@@ -1,6 +1,6 @@
 # App-multi-to-one-socks5
 [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-multi-to-one-socks5/total.svg)]() \
-Combine multiple socks5 connections in parallel to one connection. Speed acceleration. \
+Combine multiple socks5 connections in parallel to one connection. Speed acceleration. 
 ```
 MTOSocks5 <---> socks proxy server 1  <-> direct IP access internet, cap at 1Mbps
             :                               
