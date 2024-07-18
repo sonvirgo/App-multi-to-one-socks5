@@ -18,3 +18,6 @@ MTOSocks5 <---> socks proxy server 1  <-> direct IP access internet, cap at 1Mbp
 ```                                     
                                                 
 ![Screenshot (4)](https://github.com/user-attachments/assets/26a8a517-442c-4622-8b50-dd5a36bbb229)
+Request threaded download manager 
+
+![image](https://github.com/user-attachments/assets/fb2c8ecd-9f48-4e04-bc4c-45fd35f02fe2)
