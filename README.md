@@ -1,3 +1,7 @@
+## License
+
+This software is sold as a proprietary product. A license to use this software is granted only to those who have completed the payment process. For full license terms, please refer to the [Proprietary-License](./LICENSE) file.
+
 # App-multi-to-one-socks5
 [<img src="https://github.com/user-attachments/assets/b94bfae5-e93a-459e-b16d-5faa8f4dd41f">](https://mirror2.internetdownloadmanager.com/idman642build15.exe?v=lt&filename=idman642build15.exe) with co-operative speed acceleration!!!. 
 Work on Windows, macOS, Linux. \
